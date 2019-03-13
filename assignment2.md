@@ -22,7 +22,7 @@ IP: use ip scanner (https://angryip.org/download/) to find the ip address for yo
 
 	Windows: use putty (https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.70-installer.msi)
 	Unix based systems: terminal
-<span style="color:red">some **Notice: if the connection method doesn't work, please feel free to change the raspberry pi configuration to make it works!** text</span>
+<span style="color:red">**Notice: if the connection method doesn't work, please feel free to change the raspberry pi configuration to make it works!**</span>
 
 ## Sample Code
 
