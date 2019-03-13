@@ -2,9 +2,26 @@
 
 ## BrickPi + LEGO NXT
 
-Getting start with BrickPi + lEGO
+### Getting start with BrickPi + lEGO
 
 https://www.dexterindustries.com/BrickPi/brickpi3-getting-started-step-3-build-robot-attach-lego-mindstorms-nxtev3-sensors-motors-technic-parts/
+
+### Connection
+Connect to the Raspberry pi (BrickPi)
+
+Step 1: Connect your laptop to the wifi router
+	SSID: iotlab
+	Password: idontknow
+
+Step 2: SSH
+	Command: ssh pi@IP.local
+Username: pi
+Password: raspberry
+IP: use ip scanner (download) to find the ip address for your assigned Raspberry pi
+
+	Windows: use putty (download: 32 bit, 64 bit)
+	Unix based systems: terminal
+
 
 ## Sample Code
 
