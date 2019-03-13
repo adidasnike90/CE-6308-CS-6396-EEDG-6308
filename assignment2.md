@@ -17,9 +17,9 @@ Step 2: SSH
 	Command: ssh pi@IP.local
 Username: pi
 Password: raspberry
-IP: use ip scanner (download) to find the ip address for your assigned Raspberry pi
+IP: use ip scanner (https://angryip.org/download/) to find the ip address for your assigned Raspberry pi
 
-	Windows: use putty (download: 32 bit, 64 bit)
+	Windows: use putty (download: https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.70-installer.msi)
 	Unix based systems: terminal
 
 
