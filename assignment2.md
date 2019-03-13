@@ -10,6 +10,7 @@ https://www.dexterindustries.com/BrickPi/brickpi3-getting-started-step-3-build-r
 Connect to the Raspberry pi (BrickPi)
 
 Step 1: Connect your laptop to the wifi router
+
 	SSID: iotlab
 	Password: idontknow
 
@@ -19,9 +20,9 @@ Username: pi
 Password: raspberry
 IP: use ip scanner (https://angryip.org/download/) to find the ip address for your assigned Raspberry pi
 
-	Windows: use putty (download: https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.70-installer.msi)
+	Windows: use putty (https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.70-installer.msi)
 	Unix based systems: terminal
-
+<span style="color:red">some **Notice: if the connection method doesn't work, please feel free to change the raspberry pi configuration to make it works!** text</span>
 
 ## Sample Code
 
