@@ -1,4 +1,4 @@
-# Instruction for Assignment 2
+# Instruction for Assignment 3
 
 ## BrickPi + LEGO NXT
 
