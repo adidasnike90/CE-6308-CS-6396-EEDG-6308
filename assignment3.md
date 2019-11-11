@@ -17,7 +17,7 @@ Step 1: Connect your laptop to the wifi router
 Step 2: SSH
 	Command: ssh pi@IP.local
 Username: pi
-Password: raspberry
+Password: robots1234
 IP: use ip scanner (https://angryip.org/download/) to find the ip address for your assigned Raspberry pi
 
 	Windows: use putty (https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.70-installer.msi)
