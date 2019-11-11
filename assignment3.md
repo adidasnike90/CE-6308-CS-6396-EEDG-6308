@@ -15,8 +15,8 @@ Step 1: Connect your laptop to the wifi router
 	Password: idontknow
 
 Step 2: SSH
+
 	Command: ssh pi@IP.local
-	
 	Username: pi
 	Password: robots1234
 	
