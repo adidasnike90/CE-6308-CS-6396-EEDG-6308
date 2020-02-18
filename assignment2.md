@@ -2,7 +2,7 @@
 
 ## BrickPi + LEGO NXT
 
-### Getting start with BrickPi + lEGO
+### Getting start with BrickPi + LEGO
 
 https://www.dexterindustries.com/BrickPi/brickpi3-getting-started-step-3-build-robot-attach-lego-mindstorms-nxtev3-sensors-motors-technic-parts/
 
